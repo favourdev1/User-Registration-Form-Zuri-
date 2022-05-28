@@ -1,0 +1,9 @@
+<?php
+$my_array = array (
+  'Name' => 'favouur',
+  'email' => 'favourgmail.com',
+  'Date of Birth' => '2022-05-28',
+  'Gender' => 'Male',
+  'Country' => '',
+);
+?>
