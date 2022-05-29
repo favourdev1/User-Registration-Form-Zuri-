@@ -76,17 +76,11 @@ file_put_contents($file,
 
 );
 
-// retrieving as included script
-include($file);
-
-//testing
-// print_r($my_array);
-
 print_r($my_array);
-echo "<br>". $my_array["Country"];
+
 
 }else{
-echo 'not post';
+echo 'this is not a post request';
 }
 
 
